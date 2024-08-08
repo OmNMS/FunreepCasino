@@ -1,0 +1,2280 @@
+fileFormatVersion: 2
+guid: 8640bef67169daa4a8929fb4ffdcbca5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5491999481851642598
+    second: Roultte_0
+  - first:
+      213: -5135478434647331666
+    second: Roultte_1
+  - first:
+      213: -8823777320105557861
+    second: Roultte_2
+  - first:
+      213: 2977149092809659024
+    second: Roultte_3
+  - first:
+      213: -5340770063436619190
+    second: Roultte_4
+  - first:
+      213: 6078793127060200095
+    second: Roultte_5
+  - first:
+      213: 1999967484808643291
+    second: Roultte_6
+  - first:
+      213: 4770138052731928058
+    second: Roultte_7
+  - first:
+      213: 1506607126755861873
+    second: Roultte_8
+  - first:
+      213: -2057279162817032210
+    second: Roultte_9
+  - first:
+      213: -1572870377389416740
+    second: Roultte_10
+  - first:
+      213: -5243012412071632499
+    second: Roultte_11
+  - first:
+      213: 2988322468044002897
+    second: Roultte_12
+  - first:
+      213: -3578730946557749424
+    second: Roultte_13
+  - first:
+      213: -7567618372660777142
+    second: Roultte_14
+  - first:
+      213: -6101041493600395735
+    second: Roultte_15
+  - first:
+      213: -789825813540610705
+    second: Roultte_16
+  - first:
+      213: -3383808928240847306
+    second: Roultte_17
+  - first:
+      213: -8859365095429382435
+    second: Roultte_18
+  - first:
+      213: 3423343709054201561
+    second: Roultte_19
+  - first:
+      213: -5034188886520614101
+    second: Roultte_20
+  - first:
+      213: -8064550133895599397
+    second: Roultte_21
+  - first:
+      213: 8887365254809079009
+    second: Roultte_22
+  - first:
+      213: 1747743701913807494
+    second: Roultte_23
+  - first:
+      213: -3653489053095684916
+    second: Roultte_24
+  - first:
+      213: 7947092295203284502
+    second: Roultte_25
+  - first:
+      213: 7163873638833405810
+    second: Roultte_26
+  - first:
+      213: -2011503738085543312
+    second: Roultte_27
+  - first:
+      213: 6323797607159789376
+    second: Roultte_28
+  - first:
+      213: -3213126857777783731
+    second: Roultte_29
+  - first:
+      213: -1307474738506818643
+    second: Roultte_30
+  - first:
+      213: -8807847382172034405
+    second: Roultte_31
+  - first:
+      213: -3258602383654023924
+    second: Roultte_32
+  - first:
+      213: 622058806057578717
+    second: Roultte_33
+  - first:
+      213: -371213264087100880
+    second: Roultte_34
+  - first:
+      213: 7297342025577954958
+    second: Roultte_35
+  - first:
+      213: 4701817700066820755
+    second: Roultte_36
+  - first:
+      213: -8462837090104870475
+    second: Roultte_37
+  - first:
+      213: -8827372159891722102
+    second: Roultte_38
+  - first:
+      213: 2574786174858123331
+    second: Roultte_39
+  - first:
+      213: -1641045816513984933
+    second: Roultte_40
+  - first:
+      213: 7161040222500711014
+    second: Roultte_41
+  - first:
+      213: 4171499579426916548
+    second: Roultte_42
+  - first:
+      213: 5436430449721121331
+    second: Roultte_43
+  - first:
+      213: -7906179055368490771
+    second: Roultte_44
+  - first:
+      213: 5111646985859384084
+    second: Roultte_45
+  - first:
+      213: -1414208923535825598
+    second: Roultte_46
+  - first:
+      213: 8648437363535734595
+    second: Roultte_47
+  - first:
+      213: 8029979187172816048
+    second: Roultte_48
+  - first:
+      213: 3545485483159132297
+    second: Roultte_49
+  - first:
+      213: 2945355636990005245
+    second: Roultte_50
+  - first:
+      213: -2272506327157354812
+    second: Roultte_51
+  - first:
+      213: 4667799089863040849
+    second: Roultte_52
+  - first:
+      213: -1838918522798929088
+    second: Roultte_53
+  - first:
+      213: -8937737882278771039
+    second: Roultte_54
+  - first:
+      213: 4583748916546943544
+    second: Roultte_55
+  - first:
+      213: -4897351380237310143
+    second: Roultte_56
+  - first:
+      213: -331687053224619597
+    second: Roultte_57
+  - first:
+      213: 259791388315415559
+    second: Roultte_58
+  - first:
+      213: 7636368577603522793
+    second: Roultte_59
+  - first:
+      213: -1953722360491386147
+    second: Roultte_60
+  - first:
+      213: -6299272220808967144
+    second: Roultte_61
+  - first:
+      213: 6841247029611062449
+    second: Roultte_62
+  - first:
+      213: 6693985279876243256
+    second: Roultte_63
+  - first:
+      213: -509849191860228501
+    second: Roultte_64
+  - first:
+      213: -2183268419589332001
+    second: Roultte_65
+  - first:
+      213: -6079096847607354450
+    second: Roultte_66
+  - first:
+      213: -5460624267822098761
+    second: Roultte_67
+  - first:
+      213: 628797411521791068
+    second: Roultte_68
+  - first:
+      213: -5205805533555648318
+    second: Roultte_69
+  - first:
+      213: 5449597961846198098
+    second: Roultte_70
+  - first:
+      213: 1686016376882845698
+    second: Roultte_71
+  - first:
+      213: 8268186334336461872
+    second: Roultte_72
+  - first:
+      213: 8999394807695605976
+    second: Roultte_73
+  - first:
+      213: 4649598882614655215
+    second: Roultte_74
+  - first:
+      213: 4092708521384247451
+    second: Roultte_75
+  - first:
+      213: 3270240386479067124
+    second: Roultte_76
+  - first:
+      213: -8760371443045851133
+    second: Roultte_77
+  - first:
+      213: 7886213445767508633
+    second: Roultte_78
+  - first:
+      213: -3239417593575716091
+    second: Roultte_79
+  - first:
+      213: 18510506451695043
+    second: Roultte_80
+  - first:
+      213: -6314444332012047162
+    second: Roultte_81
+  - first:
+      213: -7127646548356999057
+    second: Roultte_82
+  - first:
+      213: -7360661601360644077
+    second: Roultte_83
+  - first:
+      213: 6461704967257203364
+    second: Roultte_84
+  - first:
+      213: -2216099544722847687
+    second: Roultte_85
+  - first:
+      213: 2355853416064339026
+    second: Roultte_86
+  - first:
+      213: 4496897008535882768
+    second: Roultte_87
+  - first:
+      213: 3997695535637164782
+    second: Roultte_88
+  - first:
+      213: -6190004025603494480
+    second: Roultte_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roultte_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 861
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d7a91b19f78c3b0800000000000000
+      internalID: -5491999481851642598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 861
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacaa27929d1bb8b0800000000000000
+      internalID: -5135478434647331666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 861
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90c5f91745ab8580800000000000000
+      internalID: -8823777320105557861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 861
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092db488355f05920800000000000000
+      internalID: 2977149092809659024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_4
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 861
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42e1d58ce5c1e5b0800000000000000
+      internalID: -5340770063436619190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_5
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 861
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a528964263c5450800000000000000
+      internalID: 6078793127060200095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_6
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 861
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2c956c4df41cb10800000000000000
+      internalID: 1999967484808643291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_7
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 861
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdf8a2294fe23240800000000000000
+      internalID: 4770138052731928058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_8
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 861
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175ea5e033b88e410800000000000000
+      internalID: 1506607126755861873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_9
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 861
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef4a7850831373e0800000000000000
+      internalID: -2057279162817032210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 755
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde18f5a9ba0c2ae0800000000000000
+      internalID: -1572870377389416740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_11
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 755
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81a1896df31d37b0800000000000000
+      internalID: -5243012412071632499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 755
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156d41ea377a87920800000000000000
+      internalID: 2988322468044002897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_13
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 755
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0575abf3a2bc55ec0800000000000000
+      internalID: -3578730946557749424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_14
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 755
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fa5dd5f2b6af690800000000000000
+      internalID: -7567618372660777142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_15
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 755
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e9706161fb45ba0800000000000000
+      internalID: -6101041493600395735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_16
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 755
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d5a757b99f905f0800000000000000
+      internalID: -789825813540610705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_17
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 755
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636b86c35bb4a01d0800000000000000
+      internalID: -3383808928240847306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_18
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 755
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddedf6772663d0580800000000000000
+      internalID: -8859365095429382435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_19
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 755
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de6e3a37f8228f20800000000000000
+      internalID: 3423343709054201561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 649
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2338b641e7f22ab0800000000000000
+      internalID: -5034188886520614101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_21
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 649
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdae2db8166f41090800000000000000
+      internalID: -8064550133895599397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_22
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 649
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec4b0aac93465b70800000000000000
+      internalID: 8887365254809079009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_23
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 649
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68aaffe03ab314810800000000000000
+      internalID: 1747743701913807494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_24
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 649
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4147f20133c4dc0800000000000000
+      internalID: -3653489053095684916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_25
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 649
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616e5d4465eb94e60800000000000000
+      internalID: 7947092295203284502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_26
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 649
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f33726e113b6360800000000000000
+      internalID: 7163873638833405810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_27
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 649
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0727a03f104b514e0800000000000000
+      internalID: -2011503738085543312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_28
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 649
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04779363b64a2c750800000000000000
+      internalID: 6323797607159789376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_29
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 649
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c53ef852ea863d0800000000000000
+      internalID: -3213126857777783731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 543
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab118217aaeadde0800000000000000
+      internalID: -1307474738506818643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_31
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 543
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a18cdc87d34c580800000000000000
+      internalID: -8807847382172034405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_32
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 543
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d8f0a956e17c2d0800000000000000
+      internalID: -3258602383654023924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_33
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 543
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd03774303ff1a800800000000000000
+      internalID: 622058806057578717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_34
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 543
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032dc2ac08f29daf0800000000000000
+      internalID: -371213264087100880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_35
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 543
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e7a17c8ed554560800000000000000
+      internalID: 7297342025577954958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_36
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 543
+        width: 83
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39280237946304140800000000000000
+      internalID: 4701817700066820755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_37
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 543
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b97c4c2186fd8a80800000000000000
+      internalID: -8462837090104870475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_38
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 543
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a803b7d3acfde7580800000000000000
+      internalID: -8827372159891722102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_39
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 543
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348510d526a7bb320800000000000000
+      internalID: 2574786174858123331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 438
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b560b864685d939e0800000000000000
+      internalID: -1641045816513984933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_41
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 438
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a607c3420216360800000000000000
+      internalID: 7161040222500711014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_42
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 438
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8ce6414c424e930800000000000000
+      internalID: 4171499579426916548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_43
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 438
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a9eb9c0b4127b40800000000000000
+      internalID: 5436430449721121331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_44
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 438
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0b022b90c974290800000000000000
+      internalID: -7906179055368490771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_45
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 438
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4134859d9d730f640800000000000000
+      internalID: 5111646985859384084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_46
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 438
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245a5721a78bf5ce0800000000000000
+      internalID: -1414208923535825598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_47
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 438
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34763c3f5fb650870800000000000000
+      internalID: 8648437363535734595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_48
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 438
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4373da687307f60800000000000000
+      internalID: 8029979187172816048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_49
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 438
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988110c1348143130800000000000000
+      internalID: 3545485483159132297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_50
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 332
+        width: 83
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffcbffb85100e820800000000000000
+      internalID: 2945355636990005245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_51
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 332
+        width: 83
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce45f3298f6670e0800000000000000
+      internalID: -2272506327157354812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_52
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 332
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f9d2a8a8a57c040800000000000000
+      internalID: 4667799089863040849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_53
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 332
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b0fa5b859da76e0800000000000000
+      internalID: -1838918522798929088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_54
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 332
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6c83f00c6c6f380800000000000000
+      internalID: -8937737882278771039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_55
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 332
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83abc569a5fbc9f30800000000000000
+      internalID: 4583748916546943544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_56
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 332
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147afa0fddc190cb0800000000000000
+      internalID: -4897351380237310143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_57
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 332
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b153f7e16c956bf0800000000000000
+      internalID: -331687053224619597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_58
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 332
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704fe3824e6fa9300800000000000000
+      internalID: 259791388315415559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_59
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 332
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0530a13c4d9f960800000000000000
+      internalID: 7636368577603522793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_60
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 226
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda5c294ddbf2e4e0800000000000000
+      internalID: -1953722360491386147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_61
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 226
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c02374a4d7498a0800000000000000
+      internalID: -6299272220808967144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_62
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 226
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4e9ac4dedf0fe50800000000000000
+      internalID: 6841247029611062449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_63
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 226
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f97b25520d5ec50800000000000000
+      internalID: 6693985279876243256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_64
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 226
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ea62e7cd6ace8f0800000000000000
+      internalID: -509849191860228501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_65
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 226
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3ac0990f873b1e0800000000000000
+      internalID: -2183268419589332001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_66
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 226
+        width: 80
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabaa2320a5b2aba0800000000000000
+      internalID: -6079096847607354450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_67
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 226
+        width: 80
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b61698f827f734b0800000000000000
+      internalID: -5460624267822098761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_68
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 226
+        width: 80
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54017d0aefe9b800800000000000000
+      internalID: 628797411521791068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_69
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 226
+        width: 80
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c817a2e27341c7b0800000000000000
+      internalID: -5205805533555648318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_70
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 120
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f098c197cd0ab40800000000000000
+      internalID: 5449597961846198098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_71
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 120
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208d79d36fee56710800000000000000
+      internalID: 1686016376882845698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_72
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 120
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c2dd21aaf7eb270800000000000000
+      internalID: 8268186334336461872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_73
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 120
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0013295e544ec70800000000000000
+      internalID: 8999394807695605976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_74
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 120
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8bc429c81b68040800000000000000
+      internalID: 4649598882614655215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_75
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 120
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90825257b83cc830800000000000000
+      internalID: 4092708521384247451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_76
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 120
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff88361e4a326d20800000000000000
+      internalID: 3270240386479067124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_77
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 120
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300a6c44698ec6680800000000000000
+      internalID: -8760371443045851133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_78
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 120
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992b1e19855717d60800000000000000
+      internalID: 7886213445767508633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_79
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 120
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bc4cf9cd64b03d0800000000000000
+      internalID: -3239417593575716091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_80
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c57aa12533c14000800000000000000
+      internalID: 18510506451695043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_81
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 14
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4717cd5569e58a0800000000000000
+      internalID: -6314444332012047162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_82
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 14
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6854a86a33851d90800000000000000
+      internalID: -7127646548356999057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_83
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 14
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3187a03a54da9d990800000000000000
+      internalID: -7360661601360644077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_84
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 14
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a22eb0ae669ca950800000000000000
+      internalID: 6461704967257203364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_85
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 14
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938c3e99435de31e0800000000000000
+      internalID: -2216099544722847687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_86
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 14
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cc767333ca1b020800000000000000
+      internalID: 2355853416064339026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_87
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 14
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c4c41f000386e30800000000000000
+      internalID: 4496897008535882768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_88
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 14
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee271d1b8eaaa7730800000000000000
+      internalID: 3997695535637164782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roultte_89
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 14
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd6aaf7220b81aa0800000000000000
+      internalID: -6190004025603494480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

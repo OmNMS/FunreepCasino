@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 871b1cd77d2bd424da07a77aa3140486
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Vallejo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 61ec6183c6fec6b4cb5d70ff786f76d1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

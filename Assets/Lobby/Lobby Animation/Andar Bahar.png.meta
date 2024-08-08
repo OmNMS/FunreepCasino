@@ -1,0 +1,2280 @@
+fileFormatVersion: 2
+guid: 54d57340e17845a40a59775c7ca859df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5832982202069138474
+    second: Andar Bahar_0
+  - first:
+      213: 7563420334010359898
+    second: Andar Bahar_1
+  - first:
+      213: -2222500965061127643
+    second: Andar Bahar_2
+  - first:
+      213: -7715195347704564142
+    second: Andar Bahar_3
+  - first:
+      213: 5426036819908121713
+    second: Andar Bahar_4
+  - first:
+      213: -6552833601796913436
+    second: Andar Bahar_5
+  - first:
+      213: -1583227631861446984
+    second: Andar Bahar_6
+  - first:
+      213: -3100979692409459573
+    second: Andar Bahar_7
+  - first:
+      213: 6245920673475124819
+    second: Andar Bahar_8
+  - first:
+      213: 2172412792451935240
+    second: Andar Bahar_9
+  - first:
+      213: 7025937266929099383
+    second: Andar Bahar_10
+  - first:
+      213: -2953856936626814255
+    second: Andar Bahar_11
+  - first:
+      213: 1560440555931267578
+    second: Andar Bahar_12
+  - first:
+      213: -843466637242270239
+    second: Andar Bahar_13
+  - first:
+      213: -441190537928320525
+    second: Andar Bahar_14
+  - first:
+      213: -2659813782512864307
+    second: Andar Bahar_15
+  - first:
+      213: 31508077325816677
+    second: Andar Bahar_16
+  - first:
+      213: 1325694902709587139
+    second: Andar Bahar_17
+  - first:
+      213: -7038151302533853295
+    second: Andar Bahar_18
+  - first:
+      213: -8489872597710966493
+    second: Andar Bahar_19
+  - first:
+      213: -2519764691381544657
+    second: Andar Bahar_20
+  - first:
+      213: 1404254602509385580
+    second: Andar Bahar_21
+  - first:
+      213: 7174286848082251790
+    second: Andar Bahar_22
+  - first:
+      213: 7428029131874410520
+    second: Andar Bahar_23
+  - first:
+      213: -6477959617399976761
+    second: Andar Bahar_24
+  - first:
+      213: 2275284973364181121
+    second: Andar Bahar_25
+  - first:
+      213: 7553643272158038420
+    second: Andar Bahar_26
+  - first:
+      213: 301162131347096995
+    second: Andar Bahar_27
+  - first:
+      213: -2388598188297560083
+    second: Andar Bahar_28
+  - first:
+      213: 7412037852797205501
+    second: Andar Bahar_29
+  - first:
+      213: -6154915379805975927
+    second: Andar Bahar_30
+  - first:
+      213: -126391467130161613
+    second: Andar Bahar_31
+  - first:
+      213: 6831677495198776467
+    second: Andar Bahar_32
+  - first:
+      213: -6410444421342816280
+    second: Andar Bahar_33
+  - first:
+      213: -6633908152817831880
+    second: Andar Bahar_34
+  - first:
+      213: 8487829721502418152
+    second: Andar Bahar_35
+  - first:
+      213: -6280236561365091374
+    second: Andar Bahar_36
+  - first:
+      213: 2668188914603590461
+    second: Andar Bahar_37
+  - first:
+      213: -6497102273056884313
+    second: Andar Bahar_38
+  - first:
+      213: -9003403503588003745
+    second: Andar Bahar_39
+  - first:
+      213: 8950166993255438998
+    second: Andar Bahar_40
+  - first:
+      213: -2312115501268460251
+    second: Andar Bahar_41
+  - first:
+      213: -4090921659871339076
+    second: Andar Bahar_42
+  - first:
+      213: -2991753043393999645
+    second: Andar Bahar_43
+  - first:
+      213: 4332664912258485314
+    second: Andar Bahar_44
+  - first:
+      213: -9160671119066763258
+    second: Andar Bahar_45
+  - first:
+      213: 683282673633763286
+    second: Andar Bahar_46
+  - first:
+      213: -844793330180951323
+    second: Andar Bahar_47
+  - first:
+      213: 8761554127987537400
+    second: Andar Bahar_48
+  - first:
+      213: -1926226815770746818
+    second: Andar Bahar_49
+  - first:
+      213: 2892963613768143512
+    second: Andar Bahar_50
+  - first:
+      213: -2520234524004926931
+    second: Andar Bahar_51
+  - first:
+      213: -1029636171013919742
+    second: Andar Bahar_52
+  - first:
+      213: 4446499851139696423
+    second: Andar Bahar_53
+  - first:
+      213: 1999952261947730426
+    second: Andar Bahar_54
+  - first:
+      213: 2579287417117433853
+    second: Andar Bahar_55
+  - first:
+      213: 753012131754263981
+    second: Andar Bahar_56
+  - first:
+      213: 5631091748949659215
+    second: Andar Bahar_57
+  - first:
+      213: -8394910119437233315
+    second: Andar Bahar_58
+  - first:
+      213: 889972012640058142
+    second: Andar Bahar_59
+  - first:
+      213: -1684160118138292296
+    second: Andar Bahar_60
+  - first:
+      213: 855675042687157279
+    second: Andar Bahar_61
+  - first:
+      213: 2006860854058994298
+    second: Andar Bahar_62
+  - first:
+      213: 3585648472298733075
+    second: Andar Bahar_63
+  - first:
+      213: 919853528138178239
+    second: Andar Bahar_64
+  - first:
+      213: 6353715680953116058
+    second: Andar Bahar_65
+  - first:
+      213: -2765822872323735994
+    second: Andar Bahar_66
+  - first:
+      213: 793362944937125192
+    second: Andar Bahar_67
+  - first:
+      213: 6294206933671142161
+    second: Andar Bahar_68
+  - first:
+      213: -8624319342418064123
+    second: Andar Bahar_69
+  - first:
+      213: -6790298182350591702
+    second: Andar Bahar_70
+  - first:
+      213: -1845473695059154852
+    second: Andar Bahar_71
+  - first:
+      213: -1981704272720870608
+    second: Andar Bahar_72
+  - first:
+      213: -7461828439806925314
+    second: Andar Bahar_73
+  - first:
+      213: -4145753278610141504
+    second: Andar Bahar_74
+  - first:
+      213: 8874105353007300307
+    second: Andar Bahar_75
+  - first:
+      213: -8704336019911490156
+    second: Andar Bahar_76
+  - first:
+      213: -8568738498404825781
+    second: Andar Bahar_77
+  - first:
+      213: 5520442469670803245
+    second: Andar Bahar_78
+  - first:
+      213: 7293037638025422321
+    second: Andar Bahar_79
+  - first:
+      213: -121885540216756174
+    second: Andar Bahar_80
+  - first:
+      213: 4198991749868966059
+    second: Andar Bahar_81
+  - first:
+      213: 7729673310464229399
+    second: Andar Bahar_82
+  - first:
+      213: -1296884460483733563
+    second: Andar Bahar_83
+  - first:
+      213: 8512449792097203979
+    second: Andar Bahar_84
+  - first:
+      213: 6176931539791009960
+    second: Andar Bahar_85
+  - first:
+      213: -117265202002985589
+    second: Andar Bahar_86
+  - first:
+      213: 1335501145127578436
+    second: Andar Bahar_87
+  - first:
+      213: 7564395620115793628
+    second: Andar Bahar_88
+  - first:
+      213: -1633194189808878190
+    second: Andar Bahar_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Andar Bahar_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 4057
+        width: 356
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d34e7877951d0fa0800000000000000
+      internalID: -5832982202069138474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_1
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 4057
+        width: 356
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5067a798baa6f860800000000000000
+      internalID: 7563420334010359898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_2
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 4057
+        width: 359
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5229198c5271821e0800000000000000
+      internalID: -2222500965061127643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_3
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 4057
+        width: 356
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256b25745be1ee490800000000000000
+      internalID: -7715195347704564142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_4
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 4057
+        width: 357
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17450d44db72d4b40800000000000000
+      internalID: 5426036819908121713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_5
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 4057
+        width: 356
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6c6acbe88af05a0800000000000000
+      internalID: -6552833601796913436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_6
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 4057
+        width: 356
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6c05c6bde370ae0800000000000000
+      internalID: -1583227631861446984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_7
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 4057
+        width: 359
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ceb32466b17f4d0800000000000000
+      internalID: -3100979692409459573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_8
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 4057
+        width: 358
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ed0cd92c7fda650800000000000000
+      internalID: 6245920673475124819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_9
+      rect:
+        serializedVersion: 2
+        x: 4569
+        y: 4057
+        width: 357
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cac9fbce5f52e10800000000000000
+      internalID: 2172412792451935240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 3559
+        width: 356
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772ec7128b4218160800000000000000
+      internalID: 7025937266929099383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_11
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 3559
+        width: 356
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2090f24cac107d0800000000000000
+      internalID: -2953856936626814255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_12
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 3559
+        width: 361
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af175650b6cc7a510800000000000000
+      internalID: 1560440555931267578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_13
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 3559
+        width: 360
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edf743ff876b44f0800000000000000
+      internalID: -843466637242270239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_14
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 3559
+        width: 361
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9d4841b8390e9f0800000000000000
+      internalID: -441190537928320525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_15
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 3559
+        width: 363
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3f1a40571761bd0800000000000000
+      internalID: -2659813782512864307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_16
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 3559
+        width: 366
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5639f8ced60ff6000800000000000000
+      internalID: 31508077325816677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_17
+      rect:
+        serializedVersion: 2
+        x: 3566
+        y: 3559
+        width: 367
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc0d8c7d70d56210800000000000000
+      internalID: 1325694902709587139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_18
+      rect:
+        serializedVersion: 2
+        x: 4064
+        y: 3559
+        width: 369
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f44091ea6735e90800000000000000
+      internalID: -7038151302533853295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_19
+      rect:
+        serializedVersion: 2
+        x: 4563
+        y: 3559
+        width: 371
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3217d198ad9ed2a80800000000000000
+      internalID: -8489872597710966493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3058
+        width: 371
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2991ac0d5ff70dd0800000000000000
+      internalID: -2519764691381544657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_21
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 3058
+        width: 373
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f77c4fe1aec7310800000000000000
+      internalID: 1404254602509385580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_22
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 3058
+        width: 375
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0013b890ef209360800000000000000
+      internalID: 7174286848082251790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_23
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 3058
+        width: 377
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810a0aad329a51760800000000000000
+      internalID: 7428029131874410520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_24
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 3058
+        width: 377
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc8c87bc0aa916a0800000000000000
+      internalID: -6477959617399976761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_25
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 3058
+        width: 379
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188f728d0af639f10800000000000000
+      internalID: 2275284973364181121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_26
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 3058
+        width: 381
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499cffcf88ee3d860800000000000000
+      internalID: 7553643272158038420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_27
+      rect:
+        serializedVersion: 2
+        x: 3557
+        y: 3058
+        width: 383
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a54eb2ec51fd2400800000000000000
+      internalID: 301162131347096995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_28
+      rect:
+        serializedVersion: 2
+        x: 4057
+        y: 3058
+        width: 384
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defd1636a9ef9ded0800000000000000
+      internalID: -2388598188297560083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_29
+      rect:
+        serializedVersion: 2
+        x: 4556
+        y: 3058
+        width: 385
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbf9bd0829dcd660800000000000000
+      internalID: 7412037852797205501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2558
+        width: 386
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a831c7219559aa0800000000000000
+      internalID: -6154915379805975927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_31
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 2558
+        width: 389
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336f01b51a7fe3ef0800000000000000
+      internalID: -126391467130161613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_32
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 2558
+        width: 391
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c7a517c7efece50800000000000000
+      internalID: 6831677495198776467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_33
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 2558
+        width: 394
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e71a7543c68907a0800000000000000
+      internalID: -6410444421342816280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_34
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 2558
+        width: 394
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830b9b6deaf9fe3a0800000000000000
+      internalID: -6633908152817831880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_35
+      rect:
+        serializedVersion: 2
+        x: 2551
+        y: 2558
+        width: 396
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e487284924dac570800000000000000
+      internalID: 8487829721502418152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_36
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 2558
+        width: 397
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbb96e1f1e18d8a0800000000000000
+      internalID: -6280236561365091374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_37
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 2558
+        width: 399
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3305906eaf470520800000000000000
+      internalID: 2668188914603590461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_38
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 2558
+        width: 401
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9bf01e7e7a5d5a0800000000000000
+      internalID: -6497102273056884313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_39
+      rect:
+        serializedVersion: 2
+        x: 4548
+        y: 2558
+        width: 401
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50312f273c7d0380800000000000000
+      internalID: -9003403503588003745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_40
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2057
+        width: 403
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a9a69d571653c70800000000000000
+      internalID: 8950166993255438998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_41
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2057
+        width: 406
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d1833a337b9efd0800000000000000
+      internalID: -2312115501268460251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_42
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 2057
+        width: 407
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdda6bcc602a37c0800000000000000
+      internalID: -4090921659871339076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_43
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 2057
+        width: 408
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec8ec045782b76d0800000000000000
+      internalID: -2991753043393999645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_44
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 2057
+        width: 410
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c47f148c7b02c30800000000000000
+      internalID: 4332664912258485314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_45
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 2057
+        width: 413
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60078db0722ced080800000000000000
+      internalID: -9160671119066763258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_46
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 2057
+        width: 410
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df9e13b8f18b7900800000000000000
+      internalID: 683282673633763286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_47
+      rect:
+        serializedVersion: 2
+        x: 3545
+        y: 2057
+        width: 408
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2f1fd21f0b644f0800000000000000
+      internalID: -844793330180951323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_48
+      rect:
+        serializedVersion: 2
+        x: 4046
+        y: 2057
+        width: 405
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5fd070f0b479970800000000000000
+      internalID: 8761554127987537400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_49
+      rect:
+        serializedVersion: 2
+        x: 4546
+        y: 2057
+        width: 406
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e302729aaeaa445e0800000000000000
+      internalID: -1926226815770746818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_50
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1559
+        width: 403
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892d7c2441fd52820800000000000000
+      internalID: 2892963613768143512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_51
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1559
+        width: 401
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ab20e9d04560dd0800000000000000
+      internalID: -2520234524004926931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_52
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1559
+        width: 400
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c62d29b5ff5b1f0800000000000000
+      internalID: -1029636171013919742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_53
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1559
+        width: 398
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72742095e0425bd30800000000000000
+      internalID: 4446499851139696423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_54
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 1559
+        width: 397
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9222d6cf141cb10800000000000000
+      internalID: 1999952261947730426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_55
+      rect:
+        serializedVersion: 2
+        x: 2551
+        y: 1559
+        width: 396
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff5bee7d387bc320800000000000000
+      internalID: 2579287417117433853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_56
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 1559
+        width: 393
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5c5c05b8c337a00800000000000000
+      internalID: 753012131754263981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_57
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 1559
+        width: 393
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e07c16c18a52e40800000000000000
+      internalID: 5631091748949659215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_58
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 1559
+        width: 391
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d539c9979b94f7b80800000000000000
+      internalID: -8394910119437233315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_59
+      rect:
+        serializedVersion: 2
+        x: 4555
+        y: 1559
+        width: 389
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b337984d0d95c00800000000000000
+      internalID: 889972012640058142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_60
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1058
+        width: 386
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7bc7dab49a0a8e0800000000000000
+      internalID: -1684160118138292296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_61
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1058
+        width: 385
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f140982fae7ffdb00800000000000000
+      internalID: 855675042687157279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_62
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1058
+        width: 384
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ac2df505dc9db10800000000000000
+      internalID: 2006860854058994298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_63
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1058
+        width: 383
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31eb9c8b948c2c130800000000000000
+      internalID: 3585648472298733075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_64
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 1058
+        width: 382
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbed01609e9f3cc00800000000000000
+      internalID: 919853528138178239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_65
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 1058
+        width: 379
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a952a079fbeec2850800000000000000
+      internalID: 6353715680953116058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_66
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 1058
+        width: 379
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e3e7760c2dd99d0800000000000000
+      internalID: -2765822872323735994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_67
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 1058
+        width: 377
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8456fee1567920b00800000000000000
+      internalID: 793362944937125192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_68
+      rect:
+        serializedVersion: 2
+        x: 4062
+        y: 1058
+        width: 375
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113e448abd3895750800000000000000
+      internalID: 6294206933671142161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_69
+      rect:
+        serializedVersion: 2
+        x: 4562
+        y: 1058
+        width: 373
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d04ad6043405880800000000000000
+      internalID: -8624319342418064123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_70
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 558
+        width: 371
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29230a97c304c1a0800000000000000
+      internalID: -6790298182350591702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_71
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 558
+        width: 370
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58ebabb37f8366e0800000000000000
+      internalID: -1845473695059154852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_72
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 558
+        width: 369
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0334996a6729f74e0800000000000000
+      internalID: -1981704272720870608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_73
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 558
+        width: 367
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5a6668192427890800000000000000
+      internalID: -7461828439806925314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_74
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 558
+        width: 365
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce0806bb535776c0800000000000000
+      internalID: -4145753278610141504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_75
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 558
+        width: 362
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de74613dc7272b70800000000000000
+      internalID: 8874105353007300307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_76
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 558
+        width: 360
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495c987e18cf33780800000000000000
+      internalID: -8704336019911490156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_77
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 558
+        width: 361
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45cd5d1cb9b51980800000000000000
+      internalID: -8568738498404825781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_78
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 558
+        width: 360
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2755b77d2d8c9c40800000000000000
+      internalID: 5520442469670803245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_79
+      rect:
+        serializedVersion: 2
+        x: 4569
+        y: 558
+        width: 357
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f52f047713163560800000000000000
+      internalID: 7293037638025422321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_80
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 57
+        width: 356
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238af183fb9fe4ef0800000000000000
+      internalID: -121885540216756174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_81
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 57
+        width: 356
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba05cb1dfb0d54a30800000000000000
+      internalID: 4198991749868966059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_82
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 57
+        width: 359
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710c90c1ce0554b60800000000000000
+      internalID: 7729673310464229399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_83
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 57
+        width: 357
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c79422547a800ee0800000000000000
+      internalID: -1296884460483733563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_84
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 57
+        width: 357
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b073d4a2cfb422670800000000000000
+      internalID: 8512449792097203979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_85
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 57
+        width: 356
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a85627328ed8b550800000000000000
+      internalID: 6176931539791009960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_86
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 57
+        width: 356
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8df81a8be36f5ef0800000000000000
+      internalID: -117265202002985589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_87
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 57
+        width: 359
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44be4783737a88210800000000000000
+      internalID: 1335501145127578436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_88
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 57
+        width: 356
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6c5851db12af860800000000000000
+      internalID: 7564395620115793628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar Bahar_89
+      rect:
+        serializedVersion: 2
+        x: 4569
+        y: 57
+        width: 357
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29db533998ab559e0800000000000000
+      internalID: -1633194189808878190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
